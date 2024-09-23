@@ -1,4 +1,8 @@
 {
   "name": "fkerpay",
-  "slug": "fkerpay"
+  "slug": "fkerpay",
+  "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "CAMERA"
+      ]
 }
